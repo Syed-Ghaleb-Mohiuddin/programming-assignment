@@ -1,0 +1,25 @@
+:root {
+  /* Background */
+  --bg-primary: #0A0A0F;
+  --bg-secondary: #12121A;
+  --bg-tertiary: #1A1A25;
+  
+  /* Accent */
+  --accent: #00D4FF;
+  --accent-hover: #00B8E6;
+  --accent-glow: rgba(0, 212, 255, 0.2);
+  
+  /* Text */
+  --text-primary: #FFFFFF;
+  --text-secondary: #A0A0B0;
+  --text-muted: #6B6B7A;
+  
+  /* Borders */
+  --border: #2A2A35;
+  
+  /* Status */
+  --success: #00E5A0;
+  --warning: #FFB800;
+  --error: #FF4D6A;
+  --points: #A855F7;
+}
